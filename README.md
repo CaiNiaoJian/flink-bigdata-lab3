@@ -1,7 +1,7 @@
 # 收费站交通流量分析系统
 
 基于Apache Flink的实时交通流量分析系统，用于处理收费站车流数据并进行实时分析和预警。
-## 务必阅读一下几个文件
+## 务必阅读一下几个文件（里面涉及的配置方法 暂时不可用完全引用 具体问题具体分析）
 - HadoopHBaseConfig.md
 - HBaseConnect.md
 - KafkaConnect.md
